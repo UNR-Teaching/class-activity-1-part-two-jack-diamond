@@ -1,3 +1,5 @@
+Jack Diamond and Yifeng Qin
+
 # Class Activity 1 part two
 
 Your first paired programming problem!
